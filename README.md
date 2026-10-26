@@ -1,6 +1,6 @@
 # Linux Desktop Backup
 
-## Project goal
+## Goal =
 - Create an automated personal backup of my Ubuntu OS.
 - Learn the Git and GitHub workflow.
 - Lab and become more comfortable with the terminal and troubleshooting.
