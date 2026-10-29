@@ -29,4 +29,5 @@ The script now runs as root from a root-owned copy in `/usr/local/sbin` (so my u
 
 ## Next steps
 - Move the setup to the mini PC, with dedicated partitions for the backups.
+- Change the backup server to a RHEL enviroment since it complements better my RHCSA studying.
 - Schedule it weekly with a systemd timer or cron job.
